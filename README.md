@@ -4,4 +4,4 @@
 
 ## A collaborative program in which the UI side interacts with the server
 
-After exporting the project to your working directory, install all dependencies by entering <i>"npm i"</i>> and run the project <i>"npm run dev"</i>.
+After exporting the project to your working directory, install all dependencies by entering <i>"npm i"</i> and run the project <i>"npm run dev"</i>.
