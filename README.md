@@ -1,6 +1,6 @@
 # New_project_with_back
 
-<This is my another full-fledged project
+This is my another full-fledged project
 
 ## A collaborative program in which the UI side interacts with the server
 
